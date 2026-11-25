@@ -1,0 +1,6 @@
+{
+  "name": "Acorde — Directorio y Asistente Musical",
+  "description": "Sistema web dinámico para tiendas de instrumentos musicales, estudios de grabación y escuelas de música con catálogo CRUD en Supabase, mapa interactivo de Google Maps y asistente inteligente con Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
